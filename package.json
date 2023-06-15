@@ -1,0 +1,25 @@
+{
+  "name": "bintodec",
+  "version": "1.0.0",
+  "description": "Funciones para llevar un numero de binario a decimal y de decimal a binario",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bintodec"
+  },
+  "keywords": [
+    "Binary",
+    "Binario",
+    "decimal",
+    "dec",
+    "bin",
+    "convert",
+    "binaritodec",
+    "dectobinary"
+  ],
+  "author": "Diego Enriquez Puig",
+  "license": "MIT"
+}
