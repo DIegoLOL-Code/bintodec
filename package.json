@@ -1,6 +1,6 @@
 {
   "name": "bintodec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Funciones para llevar un numero de binario a decimal y de decimal a binario",
   "main": "index.js",
   "scripts": {
