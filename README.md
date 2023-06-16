@@ -19,5 +19,5 @@ The `decToBin` function, takes only one number argument like "22" and returns th
 #### Example:
 ```js
 const btd = require('./bintodec.js')
-console.log(22) //Returns '10110'
+console.log(btd.decToBin(22)) //Returns '10110'
 ```
