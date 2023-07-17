@@ -10,7 +10,7 @@ The `binToDec` function, takes only one string argument like "10110" and returns
 #### Example:
 ```js
 const btc = require('./bintodec.js')
-console.log(btd.binToDec('10110') //Returns 22
+console.log(btd.binToDec('10110')) //Returns 22
 ```
 
 ### decToBin Function
